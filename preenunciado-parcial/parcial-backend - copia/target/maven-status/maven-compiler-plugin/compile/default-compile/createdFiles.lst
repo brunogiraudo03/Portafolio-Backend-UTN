@@ -1,0 +1,17 @@
+parcial\backend\entities\Category.class
+parcial\backend\services\interfaces\IService.class
+parcial\backend\services\PublisherService.class
+parcial\backend\repositories\Repository.class
+parcial\backend\entities\Designer.class
+parcial\backend\repositories\context\DbContext.class
+parcial\backend\app\App.class
+parcial\backend\repositories\BoardGameRepository.class
+parcial\backend\services\BoardGameService.class
+parcial\backend\app\DbInitializer.class
+parcial\backend\services\CategoryService.class
+parcial\backend\entities\Publisher.class
+parcial\backend\repositories\DesignerRepository.class
+parcial\backend\services\DesignerService.class
+parcial\backend\entities\BoardGame.class
+parcial\backend\repositories\CategoryRepository.class
+parcial\backend\repositories\PublisherRepository.class
